@@ -11,7 +11,7 @@ Python kodas kurti, mūsų protmūšiuose naudojamus, animuotus laikmačio GIF s
 
 ### Naudojimas
 1.  **Nustatymų keitimas (nebūtina):**
-    Galite pakeisti šias konstantas, esančias `main.py` viršuje, `#=== Nustatymai ===#` skyriuje, kad pritaikytumėte išvestį
+    Galima pakeisti konstantas, esančias `main.py` viršuje, `#=== Nustatymai ===#` skyriuje, kad sureguliuoti rezultatą
 
 2.  **Paleisti programą:**
     ```bash
@@ -69,5 +69,11 @@ You can modify the following constants at the top of `main.py` within the `#=== 
 
 ---
 
-## Pavyzdys | Example
-![Example Countdown GIF](countdown.gif) ![Example Countdown GIF Darkmode](countdown_darkmode.gif)
+## Pavyzdžiai | Examples
+Įprastas | Regular
+
+![Example Countdown GIF](countdown.gif)
+
+Tamsus | Darkmode
+
+![Example Countdown GIF Darkmode](countdown_darkmode.gif)
