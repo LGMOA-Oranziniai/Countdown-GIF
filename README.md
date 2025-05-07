@@ -28,7 +28,7 @@ Python kodas kurti, mūsų protmūšiuose naudojamus, animuotus laikmačio GIF s
 ---
 
 ## English
-Python code to create the animated countdown GIFs used in our "Mindfight" quiz with the Pillow library. [Example](#pavyzdys--example)
+Python code to create the animated countdown GIFs used in our Trivia game with the Pillow library. [Example](#pavyzdys--example)
 
 ### Requirements
 
